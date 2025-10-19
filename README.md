@@ -1,6 +1,6 @@
 # Costco FP&A Analysis — Historical Performance & Driver-Based Forecast
 
-This project evaluates Costco’s recent financial performance using public SEC filings and builds a driver-based forecast with Base, Upside, and Downside scenarios. The goal is to replicate core FP&A deliverables, income statement snapshot, variance analysis, KPI dashboard, and scenario forecasting — using publicly available data.
+This project evaluates Costco’s recent financial performance using public SEC filings and builds a driver-based forecast with Base, Upside, and Downside scenarios. The goal is to replicate core FP&A deliverables, income statement snapshot, variance analysis, KPI dashboard, and scenario forecasting using publicly available data.
 
 ---
 
