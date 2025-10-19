@@ -12,6 +12,20 @@ This project evaluates Costco’s recent financial performance using public SEC 
 
 ---
 
+## Selected visuals
+<p align="center">
+  <img src="images/revenue_trend.png" alt="Revenue Trend" width="45%" />
+  <img src="images/operating_income_trend.png" alt="Operating Income Trend" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/yoy_variance.png" alt="YoY Variance" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/operating_margins.png" alt="Operating Margins" width="45%" />
+</p>
+
 ## Scenario Results (Full-Year Totals)
 
 | Scenario   | Revenue | Operating Income |
