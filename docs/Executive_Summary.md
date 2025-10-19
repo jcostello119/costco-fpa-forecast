@@ -16,7 +16,7 @@ This project evaluates Costco’s recent financial performance using public SEC 
 ## Forecast Methodology
 
 Revenue is modeled using two fundamental FP&A drivers:
-
+Revenue = Membership Growth × Spend per Member
 
 Base Case Assumptions  
 - Membership growth: **7%**  
