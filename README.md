@@ -19,11 +19,8 @@ This project evaluates Costco’s recent financial performance using public SEC 
 </p>
 
 <p align="center">
-  <img src="images/yoy_variance.png" alt="YoY Variance" width="45%" />
-</p>
-
-<p align="center">
   <img src="images/operating_margins.png" alt="Operating Margins" width="45%" />
+  <img src="images/yoy_variance.png" alt="YoY Variance" width="45%" />
 </p>
 
 ## Scenario Results (Full-Year Totals)
